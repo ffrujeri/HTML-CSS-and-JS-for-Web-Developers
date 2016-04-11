@@ -5,21 +5,11 @@
   font-size: 15px;
   font-weight: bold;
 }
+
 h1 {
   margin-bottom: 30px;
   font-size: 175%;
   text-align: center;
-}
-
-.box {
-  margin-bottom: 30px;
-  height: 100%;
-  float: left;
-  position: relative;
-  border-width: 1px;
-  border-color: black;
-  border-style: solid;
-  background-color: #999999;
 }
 
 h2{
@@ -48,6 +38,17 @@ p {
 
 
   color: black;
+}
+
+.box {
+  margin-bottom: 30px;
+  height: 100%;
+  float: left;
+  position: relative;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  background-color: #999999;
 }
 
 #chicken {
