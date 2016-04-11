@@ -1,9 +1,9 @@
 /********** Base styles **********/
 * {
+  box-sizing: border-box;
   font-family:  Comic, Helvetica, sans-serif;
   font-size: 15px;
   font-weight: bold;
-  box-sizing: border-box;
 }
 
 h1 {
@@ -13,13 +13,14 @@ h1 {
 }
 
 h2{
-  margin: 0;
-  float: right;
   width: 150px;
   height: 30px;
-  border-width: 1px;
-  border-color: black;
-  border-style: solid;
+  border: 1px black solid;
+  margin: 0;
+  float: right;
+  position: relative;
+  top: -1px;
+  right: -1px;
   font-size: 125%;
   text-align: center;
 }
@@ -36,9 +37,7 @@ p {
   height: 100%;
   float: left;
   position: relative;
-  border-width: 1px;
-  border-color: black;
-  border-style: solid;
+  border: 1px black solid;
   background-color: #999999;
 }
 
