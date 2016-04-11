@@ -19,7 +19,6 @@ h2{
   margin: 0;
 
   float: right;
-  /*clear: left;*/
 
   border-width: 1px;
   border-color: black;
@@ -34,8 +33,6 @@ p {
 
   text-align: left;
   float: left;
-  /*clear: right;*/
-
 
   color: black;
 }
