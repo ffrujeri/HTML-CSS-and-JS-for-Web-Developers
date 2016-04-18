@@ -57,14 +57,17 @@ body {
   margin-top: -52px;
 }
 /* END HEADER */
+
+/* HOME PAGE */
 h2 {
-	font-size: 3em;
+  font-size: 3em;
 }
 #content-header {
-	text-align: center;
-	font-size: 1.5em;
+  text-align: center;
+  font-size: 1.5em;
 }
 #content-text {
-	text-align: justify;
-	background-color: #3399ff;
+  text-align: justify;
+  background-color: #3399ff;
 }
+/* END HOME PAGE */
