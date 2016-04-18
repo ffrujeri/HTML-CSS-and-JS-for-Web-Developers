@@ -56,14 +56,6 @@ body {
 /* END HEADER */
 
 /* HOME PAGE */
-.navbar-brand {
-	text-align: left;
-	color: #000;
-	font-size: 2em;
-}
-.navbar-nav {
-	float: right;
-}
 h2 {
 	font-size: 3em;
 }
@@ -74,20 +66,4 @@ h2 {
 #content-text {
 	text-align: justify;
 	background-color: #3399ff;
-}
-.icon-bar {
-	border: 1px;
-	background-color: #000
-}
-.navbar-nav {
-	width: 100%;
-	text-align: center;
-}
-.navbar-nav>li>a {
-	background-color: #ff5c33;
-	color: #000;
-}
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-	background-color: #ff5c33;
-	color: #000;
 }
